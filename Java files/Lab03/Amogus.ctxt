@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Amogus
+comment1.params=x\ y\ scale
+comment1.target=Amogus(int,\ int,\ double)
+comment2.params=size
+comment2.target=int\ scale(int)
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+numComments=4
