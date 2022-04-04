@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=One
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=index
+comment2.target=java.math.BigInteger\ fun(java.math.BigInteger)
+comment3.params=location\ target\ a\ b
+comment3.target=java.math.BigInteger\ funHelper(java.math.BigInteger,\ java.math.BigInteger,\ java.math.BigInteger,\ java.math.BigInteger)
+numComments=4
